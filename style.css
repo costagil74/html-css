@@ -1,0 +1,59 @@
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-weight: 30px;
+}
+
+#cabecalho {
+ position: fixed;
+ top: 0px;
+ background-color: coral;
+ width: 100%;
+ padding: 5px;
+}
+#minha_foto {
+  width: 450px;
+  margin-top: 105px;
+}
+#rodape {
+  background-color: darkorange;
+  width: 150px;
+  text-align: center;
+}
+
+.populacao {
+  padding-left: 50px;
+}
+.territoro {  
+  padding-left: 50px;
+}
+.municipio {
+  padding-left: 50px;
+}
+
+.pessoas {
+  padding-left: 50px;
+}
+
+.habitantes {
+  padding-left: 50px;
+}
+
+.cidades {
+  padding-left: 70px;
+}
+
+#informacoes{
+  border: 1px solid rgb(142, 211, 121);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  color: darkmagenta;
+}
+
+header a {
+  text-decoration: none;
+  font-size: 20px;
+  padding-left: 50px;
+  color: antiquewhite;
+}
+
